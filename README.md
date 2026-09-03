@@ -38,6 +38,21 @@ width="200"
 
 ---
 
+## 🐼 Jolly Panda
+
+**Jolly Panda Productive Studio** is my independent studio for building
+games, interactive experiences, and digital products.
+
+<p align="center">
+  <a href="https://github.com/Jolly-Panda-Productive-Studio">
+    <img
+      src="https://img.shields.io/badge/Jolly%20Panda%20Productive%20Studio-ff914d?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
 ## 🎮 Game Development
 
 I enjoy building systems that make games feel **responsive, understandable, and fun**.
