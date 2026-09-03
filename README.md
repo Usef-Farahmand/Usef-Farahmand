@@ -1,89 +1,157 @@
+<!-- ========================= HEADER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6b35,50:ff914d,100:ff7a3d&text=USEF%20FARAHMAND&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Indie%20Game%20Developer%20%7C%20Technical%20Artist&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+---
+
 # 👋 Hey, I'm Usef
 
-### 🎮 Indie Game Developer · Technical Artist
+### 🎮 Indie Game Developer · Technical Artist · Creative Technologist
 
-I build games, interactive experiences, and experimental digital projects.
+I build **games, interactive experiences, and experimental digital projects**.
 
-My work combines **gameplay programming, technical art, game systems, and creative problem-solving** — turning ideas into playable experiences from concept to implementation.
-
----
-
-## 🧰 Tech Stack
-
-**Game Development**
-
-`Unity` · `Godot` · `C#` · `Game Systems` · `Gameplay Programming`
-
-**Web Development**
-
-`JavaScript` · `HTML` · `CSS` · `Web Games`
-
-**Creative & Technical**
-
-`Technical Art` · `Game UI` · `AI-assisted Development` · `Prototyping`
+My work combines gameplay programming, technical art, game systems, UI, and creative problem-solving — from early prototypes to complete playable experiences.
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Game Development
 
-### 🕵️ Detective Files
+I enjoy building systems that make games feel **responsive, understandable, and fun**.
 
-A mystery game built around a fictional police operating system, combining investigation gameplay with an interactive desktop environment.
+* 🧩 Gameplay Systems
+* 🤖 AI & NPC Behaviors
+* 🃏 Card & Strategy Systems
+* 🗺️ Progression Systems
+* 💾 Data-driven Architecture
+* 🎨 Game UI
+* 📱 Android / PC
+* 🌐 Browser Games
 
-`Game Systems` · `UI` · `Data-driven Architecture` · `Pixel Art`
+---
 
-### 🏴‍☠️ Treasure Raiders
+## 🛠️ Technologies
 
-A pixel-art pirate card game for 2–4 players, featuring AI opponents and a data-driven card system.
+<p align="center">
 
-`Game Logic` · `AI` · `Card Systems` · `Data-driven Design`
+<a href="https://unity.com/">
+<img src="https://skillicons.dev/icons?i=unity" height="50" />
+</a>
+&nbsp;&nbsp;
 
-### 🏛️ Heritage Builders
+<a href="https://godotengine.org/">
+<img src="https://skillicons.dev/icons?i=godot" height="50" />
+</a>
+&nbsp;&nbsp;
 
-A game series exploring the reconstruction and preservation of ancient Iranian heritage through interactive gameplay.
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://skillicons.dev/icons?i=cs" height="50" />
+</a>
+&nbsp;&nbsp;
 
-`Game Design` · `Progression Systems` · `Interactive Experiences`
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" height="50" />
+</a>
+&nbsp;&nbsp;
 
-### 🐼 Jolly Panda
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="50" />
+</a>
+&nbsp;&nbsp;
 
-A collection of experimental games, prototypes, tools, and interactive experiences.
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="50" />
+</a>
+&nbsp;&nbsp;
 
-`Prototyping` · `Web Games` · `Game Development`
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="50" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+</p>
+
+---
+
+## 🧠 What I Like Building
+
+```yaml
+games:
+  - gameplay systems
+  - strategy games
+  - card games
+  - mystery games
+  - experimental games
+
+technical:
+  - data-driven architecture
+  - reusable systems
+  - AI & NPC logic
+  - game UI
+  - localization
+  - cross-platform development
+
+creative:
+  - technical art
+  - pixel art workflows
+  - game prototyping
+  - interactive experiences
+  - AI-assisted development
+```
 
 ---
 
 ## 🔭 Currently Exploring
 
-* 🎮 Gameplay systems & mechanics
-* 🌐 Browser-based games
-* 🤖 AI-assisted development
-* 🎨 Technical art workflows
-* 🧩 Data-driven game architecture
-* 🚀 Turning prototypes into polished experiences
+```text
+🎮 New gameplay mechanics
+🌐 Browser-based games
+🤖 AI-assisted development
+🎨 Technical art workflows
+🧩 Data-driven game architecture
+🚀 Rapid prototyping
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Development Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usef-Farahmand&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usef-Farahmand&layout=compact&hide_border=true" height="165" />
-</p>
+> **Build small. Experiment often. Learn from everything.**
+
+I believe good games are built through iteration —
+prototype → test → break → improve → repeat.
 
 ---
 
 ## 🌐 Find Me
 
-🌍 **Portfolio:** [useffarahmand.com](https://useffarahmand.com)
+<p align="center">
 
-💼 **LinkedIn:** [linkedin.com/in/useffarahmand](https://www.linkedin.com/in/useffarahmand/)
+<a href="https://jollypanda.ir">
+<img src="https://img.shields.io/badge/Portfolio-Jolly%20Panda-ff914d?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-📢 **Usef's Game Lab:** [Telegram](https://t.me/UsefGameLab)
+<a href="https://www.linkedin.com/in/useffarahmand/">
+<img src="https://img.shields.io/badge/LinkedIn-Usef%20Farahmand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-☕ **Support my work:** [Buy Me a Coffee](https://buymeacoffee.com/useffarahmand)
+<a href="https://t.me/UsefGameLab">
+<img src="https://img.shields.io/badge/Telegram-Usef's%20Game%20Lab-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <i>Build. Experiment. Play. Repeat. 🐼</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff7a3d,50:ff914d,100:ff6b35" width="100%" />
+</p>
+
+<p align="center">
+  <b>Build. Experiment. Play. Repeat. 🐼</b>
 </p>
