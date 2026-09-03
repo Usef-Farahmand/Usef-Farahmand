@@ -6,6 +6,11 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="70%" valign="middle">
+
 # 👋 Hey, I'm Usef
 
 ### 🎮 Indie Game Developer · Technical Artist · Creative Technologist
@@ -13,6 +18,23 @@
 I build **games, interactive experiences, and experimental digital projects**.
 
 My work combines gameplay programming, technical art, game systems, UI, and creative problem-solving — from early prototypes to complete playable experiences.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<!-- JOLLY PANDA MASCOT -->
+
+<img
+src="./assets/jolly-panda-mascot.png"
+alt="Jolly Panda Mascot"
+width="200"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -124,7 +146,8 @@ creative:
 > **Build small. Experiment often. Learn from everything.**
 
 I believe good games are built through iteration —
-prototype → test → break → improve → repeat.
+
+**prototype → test → break → improve → repeat**
 
 ---
 
@@ -137,21 +160,35 @@ prototype → test → break → improve → repeat.
 </a>
 
 <a href="https://www.linkedin.com/in/useffarahmand/">
-<img src="https://img.shields.io/badge/LinkedIn-Usef%20Farahmand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Usef%20Farahmand-ff914d?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/UsefGameLab">
-<img src="https://img.shields.io/badge/Telegram-Usef's%20Game%20Lab-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-Usef's%20Game%20Lab-ff914d?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </p>
 
----
+&nbsp;&nbsp;
+
+<!-- ========================= FOOTER ========================= -->
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff7a3d,50:ff914d,100:ff6b35" width="100%" />
+  <b>Build. Experiment. Play. Repeat.</b>
+  &nbsp;&nbsp;
+  <img
+    src="./assets/jolly-panda-logo.png"
+    alt="Jolly Panda"
+    width="45"
+    valign="middle"
+  />
 </p>
 
+
 <p align="center">
-  <b>Build. Experiment. Play. Repeat. 🐼</b>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff7a3d,50:ff914d,100:ff6b35"
+    width="100%"
+  />
 </p>
