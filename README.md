@@ -170,16 +170,20 @@ I believe good games are built through iteration —
 
 <p align="center">
 
-<a href="https://jollypanda.ir">
-<img src="https://img.shields.io/badge/Portfolio-Jolly%20Panda-ff914d?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://useffarahmand.com">
+<img src="https://img.shields.io/badge/Portfolio-ff914d?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/useffarahmand/">
-<img src="https://img.shields.io/badge/LinkedIn-Usef%20Farahmand-ff914d?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-ff914d?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/UsefGameLab">
-<img src="https://img.shields.io/badge/Telegram-Usef's%20Game%20Lab-ff914d?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-ff914d?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@UsefFarahmand">
+<img src="https://img.shields.io/badge/Medium-ff914d?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 </p>
