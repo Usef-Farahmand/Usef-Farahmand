@@ -44,7 +44,7 @@ width="200"
 games, interactive experiences, and digital products.
 
 <p align="center">
-  <a href="https://github.com/Jolly-Panda-Productive-Studio">
+  <a href="https://github.com/Jolly-Panda-Works">
     <img
       src="https://img.shields.io/badge/Jolly%20Panda%20Productive%20Studio-ff914d?style=for-the-badge&logo=github&logoColor=white"
     />
